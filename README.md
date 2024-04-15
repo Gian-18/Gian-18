@@ -9,6 +9,5 @@
 Let's collaborate on this exhilarating journey where programming and data converge!
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![Gian GitHub stats](https://github-readme-stats.vercel.app/api?username=Gian-18&show_icons=true)<br/>
-![Gian GitHub stats](https://github-readme-stats.vercel.app/api?username=Gian-18&show_icons=true&theme=radical)<br/>
+![Gian GitHub stats](https://github-readme-stats.vercel.app/api?username=Gian-18&show_icons=true&theme=tokyonight)<br/>
 
