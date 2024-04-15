@@ -1,4 +1,4 @@
-# Hi there 👋
+# 👋 Hi there, I'm Gian!
 
 👋 Hello! I'm a passionate programmer fascinated by the world of data. I believe the synergy of programming and data analysis unlocks groundbreaking solutions.
 
