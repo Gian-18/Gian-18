@@ -1,58 +1,51 @@
-# 👋 Hi there, I'm Gian!
 
-👋 Hello! I'm a passionate programmer fascinated by the world of data. I believe the synergy of programming and data analysis unlocks groundbreaking solutions.
+<h1 style="color: #;">
 
-🌱 Constant growth defines my journey. Engaging in programs like Bangkit Academy, with a focus on machine learning, has been pivotal.
+</h1>
 
-🚀 My dedication to programming and exploring data fuels my enthusiasm for continuous learning.
+<h1 align="center" style="color: #;">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=sans&size=45&pause=1000&color=5DEBD7&random=false&width=650&height=75&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Gian!;Thank+you+for+visiting+%F0%9F%AB%A1" alt="Typing SVG" /></a>
+</h1>
 
-Let's collaborate on this exhilarating journey where programming and data converge!
+<br />
 
-## 📊 GitHub Stats:
+ Hello! I'm passionate about programming and data from Indonesia IDN 👋
+
+**About me**
+
+🌱 Constantly growing through machine learning programs like Bangkit Academy.
+
+🚀 Dedicated to exploring programming and data for groundbreaking solutions.
+
+Let's collaborate on this exciting journey!
+
+
+## 📊 GitHub Stats 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![Gian GitHub stats](https://github-readme-stats.vercel.app/api?username=Gian-18&show_icons=true&theme=highcontrast)<br/>
+<!--![Gian GitHub stats](https://github-readme-stats.vercel.app/api?username=giansrt&show_icons=true&theme=highcontrast&line_height=30)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giansrt&layout=donut&theme=highcontrast)](https://github.com/giansrt/github-readme-stats) -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=giansrt&show_icons=true&theme=highcontrast" />
+</a>
+<a href="https://github.com/giansrt/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giansrt&layout=donut&langs_count=8&card_width=320&theme=highcontrast" />
+</a>
 
-# 💻 Tech:
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
-  </a>
-</p>
 
-# 🌐 Socials:
+# 💻 Tech Stack
+<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+</br>
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+### 🌐 Socials 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/patarsrt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gian-sirait/) 
 
 
 
 
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=Gian-18&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
